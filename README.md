@@ -76,3 +76,7 @@ Complete the Logger Component in Logger.jsx. The Logger is the grey rectangle at
 4. The Logger should display a maximum of 20 messages.
 
 5. the scrollbar should auto-scroll to the bottom of the list of displayed messages.
+
+## Submission Instructions
+
+Fork this [sandbox](https://codesandbox.io/s/github/webdevrws/React-Redux-Code-Test/tree/master/?fontsize=14&hidenavigation=1&theme=dark) (you may need to create an account on codesandbox.io) to get the starter code. You're free to do all your editting on codesandbox or in an editor of your choice. If you do your development offline, you'll have to upload your code back to codesandbox. When you are finished, simply click "Share" in the top right and send us back a link to your forked sandbox.
