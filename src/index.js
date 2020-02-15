@@ -41,7 +41,7 @@ global.store = store;
 function App() {
   return (
     <Provider store={store} className="App">
-      <Level width="40" height="20" />
+      <Level/>
       <Logger/>
     </Provider>
   );

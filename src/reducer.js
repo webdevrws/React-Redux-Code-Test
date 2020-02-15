@@ -21,7 +21,7 @@ const reducer = (state = initialState, action) => {
           i % action.width === 0 ||
           (i + 1) % action.width === 0 ||
           i <= action.width ||
-          i > (dimension) - action.width
+          i > (dimension - action.width)
         ) {
           map.push('#');
         } else {

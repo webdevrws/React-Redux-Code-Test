@@ -62,7 +62,7 @@ Requirements are as follows:
     - Do not create any side effects in the reducer. The reducer should be pure. ([Pure Function](https://en.wikipedia.org/wiki/Pure_function)).
     - Only calculate the next state and return it.
 
-## 2: Logger component
+## 3: Logger component
 
 Complete the Logger Component in Logger.jsx. The Logger is the grey rectangle at the bottom of the screen. Because this game uses a very minimal graphical interface, we need to provide more feedback to the player. The purpose of the Logger is to display all the events that happen to the player in the form of text. The list should grow downward and be contained within the rectangle.
 
@@ -71,11 +71,11 @@ Complete the Logger Component in Logger.jsx. The Logger is the grey rectangle at
 
 2. When a player attacks an enemy, display the message "player attacked enemy".
 
-3. when an enemy attacks a player, display the message "enemy attacked player".
+3. When an enemy attacks a player, display the message "enemy attacked player".
 
 4. The Logger should display a maximum of 20 messages.
 
-5. the scrollbar should auto-scroll to the bottom of the list of displayed messages.
+5. The scrollbar should auto-scroll to the bottom of the list of displayed messages.
 
 ## Submission Instructions
 
